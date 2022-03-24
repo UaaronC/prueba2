@@ -1,0 +1,110 @@
+.caja{
+    width: 1400px;
+    height: 950px;
+    border: black 5px dashed;
+    margin-left: 200px;
+    margin-top: auto;
+    background-color: bisque;
+    
+}
+.caja3{
+    background-color: bisque;
+    width: 1000px;
+    height: auto;
+    float: left;
+    border: black 3px solid;
+    margin-left: 144px;
+    margin-top: 40px;
+    
+
+}
+
+.cajabtn{
+
+    width: auto;
+    height: auto;
+    float: left;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+
+.caja1{
+    background-color: bisque;
+    width: 570px;
+    height: 300px;
+    float: left;
+    border: black 3px solid;
+    margin-left: 110px;
+    margin-top: 33px;
+
+}
+
+.caja2{
+    background-color: bisque;
+    width: 570px;
+    height: 300px;
+    border: black 3px solid ;
+    margin-right: 120px;
+    float: right;
+    margin-top: 33px;
+}
+
+body{
+        
+    background-color: #999;
+
+}
+
+.nombre{
+    background-color: bisque;
+    width: 100px;
+    height: 60px;
+    float:inline-start ;
+    border: black 3px solid;
+    margin-left: 70px;
+    margin-top: -20px;
+
+}
+
+
+.datos{
+    background-color: bisque;
+    width: 315px;
+    height: 278px;
+    float: right;
+    border: black 3px solid;
+    margin-top: 8px;
+    margin-right: 8px;
+
+}
+
+li{
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
+
+a{
+    color: black;
+}
+
+.datos2{
+    background-color: bisque;
+    width: 315px;
+    height: 278px;
+    float: left;
+    border: black 3px solid;
+    margin-top: 8px;
+    margin-right: 8px;
+
+}
+
+.caja4{
+    background-color: bisque;
+    width: 570px;
+    height: 300px;
+    border: black 3px solid ;
+    margin-left: 410px;
+    margin-top: 240px;
+}
