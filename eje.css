@@ -111,12 +111,46 @@ a{
 
 
 .adopta{
-    background-color:grey;
-    width: auto ;
+    width: 800px ;
     height: auto;
-    
+    border: black 5px solid;
+    margin-left: 300px;
+    margin-top: 10px;
 }
 
 h1{
     text-align: center;
+}
+
+.perro{
+    background-color: bisque;
+    width: 200px;
+    height: 163px;
+    float: right;
+    border: black 3px solid;
+    margin-top: 20px;
+    margin-right: 450px;
+
+}
+
+
+.gato{
+    background-color: bisque;
+    width: 200px;
+    height: 200x;
+    float: right;
+    border: black 3px solid;
+    margin-top: 20px;
+    margin-right: 100px;
+
+}
+
+
+.move{
+    margin-top: 10px;
+
+}
+
+.salto{
+    margin-top: 50px;
 }
