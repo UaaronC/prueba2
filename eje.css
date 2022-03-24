@@ -4,11 +4,11 @@
     border: black 5px dashed;
     margin-left: 200px;
     margin-top: auto;
-    background-color: bisque;
+    background-color: #a8e6cf;
     
 }
 .caja3{
-    background-color: bisque;
+    background-color: #a8e6cf;
     width: 1000px;
     height: auto;
     float: left;
@@ -30,7 +30,7 @@
 
 
 .caja1{
-    background-color: bisque;
+    background-color: #a8e6cf;
     width: 570px;
     height: 300px;
     float: left;
@@ -41,7 +41,7 @@
 }
 
 .caja2{
-    background-color: bisque;
+    background-color: #a8e6cf;
     width: 570px;
     height: 300px;
     border: black 3px solid ;
@@ -52,12 +52,11 @@
 
 body{
         
-    background-color: #999;
-
+    background-color: #62bf8c;
 }
 
 .nombre{
-    background-color: bisque;
+    background-color: #a8e6cf;
     width: 100px;
     height: 60px;
     float:inline-start ;
@@ -69,7 +68,7 @@ body{
 
 
 .datos{
-    background-color: bisque;
+    background-color: #a8e6cf;
     width: 315px;
     height: 278px;
     float: right;
@@ -90,7 +89,7 @@ a{
 }
 
 .datos2{
-    background-color: bisque;
+    background-color: #a8e6cf;
     width: 315px;
     height: 278px;
     float: left;
@@ -101,7 +100,7 @@ a{
 }
 
 .caja4{
-    background-color: bisque;
+    background-color: #a8e6cf;
     width: 570px;
     height: 300px;
     border: black 3px solid ;
@@ -123,7 +122,7 @@ h1{
 }
 
 .perro{
-    background-color: bisque;
+    background-color: #ffffff;
     width: 200px;
     height: 163px;
     float: right;
@@ -135,7 +134,7 @@ h1{
 
 
 .gato{
-    background-color: bisque;
+    background-color: #ffffff;
     width: 200px;
     height: 200x;
     float: right;
