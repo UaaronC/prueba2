@@ -79,8 +79,9 @@ body{
 }
 
 li{
-    margin-left: 10px;
-    margin-top: 30px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
 
 }
 
@@ -204,5 +205,45 @@ h1{
 }
 
 .enter{
-    margin-top: 340px;
+    margin-top: 1000px;
+}
+
+
+.caj{
+    background-color: #a8e6cf;
+    border: black 3px solid;
+    margin-top: 30px;
+}
+
+.caj1{
+    border: black 3px solid;
+    margin-top: 100px;
+}
+
+.per{
+    float: left;
+}
+
+.caj2{
+    border: black 3px solid;
+    margin-top: 10px;
+    float: left;
+    height: 278px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.caj11{
+    border: black 3px solid;
+    margin-top: 100px;
+    float: left;
+    margin-left: 20px;
+}
+
+.caj12{
+    border: black 3px solid;
+    margin-top: 100px;
+    float: right;
+    margin-right: 20px;
+    
 }
