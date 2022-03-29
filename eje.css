@@ -177,7 +177,7 @@ h1{
 }
 
 .cuerpo2{
-    background-color: #a8e6cf;
+    background-color: #ffffff;
     width: auto;
     height: auto;
     border: black 3px solid;
@@ -196,7 +196,7 @@ h1{
 }
 
 .cuerpo3{
-    background-color: #a8e6cf;
+    background-color: #ffffff;
     width: auto;
     height: auto;
     border: black 3px solid;
@@ -205,7 +205,11 @@ h1{
 }
 
 .enter{
-    margin-top: 1000px;
+    margin-top: 200px;
+}
+
+.enter2{
+    margin-top: 300px;
 }
 
 
