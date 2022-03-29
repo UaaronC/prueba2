@@ -153,3 +153,56 @@ h1{
 .salto{
     margin-top: 50px;
 }
+
+.cuerpo{
+    width: auto;
+    height: auto;
+    border: black 5px dashed;
+    background-color: #a8e6cf;
+}
+
+.cuerpo1{
+    background-color: #a8e6cf;
+    border: black 3px solid;
+    margin-top: 10px;
+}
+
+.mar{
+    margin-top: 100px;
+}
+
+.salto{
+    margin-top: 100px;
+}
+
+.cuerpo2{
+    background-color: #a8e6cf;
+    width: auto;
+    height: auto;
+    border: black 3px solid;
+    margin-top: 10px;
+    float: left;
+}
+
+.im{
+    width: 100%;
+    max-width: 100px;
+}
+
+.im2{
+    width: 100%;
+    max-width: 100px;
+}
+
+.cuerpo3{
+    background-color: #a8e6cf;
+    width: auto;
+    height: auto;
+    border: black 3px solid;
+    margin-top: 10px;
+    float: right;
+}
+
+.enter{
+    margin-top: 340px;
+}
